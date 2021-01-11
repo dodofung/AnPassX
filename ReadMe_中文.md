@@ -1,4 +1,4 @@
-AnPassX 是windows 10 商店程序的移动端。目前只发布Android版本，使用Xamarin开发。
+AnPassX 是windows 10 商店程序AnPass的移动端。目前只发布Android版本，使用Xamarin开发。
 
 ### 一、数据如何共享：
 * 目前只支持使用Onedrive在设备间(Win10电脑、手机)共享数据
@@ -12,3 +12,6 @@ AnPassX 是windows 10 商店程序的移动端。目前只发布Android版本，
 * 强烈建议同步到你的Onedrive网盘。
 * 程序无法获知你的机密信息，登录过程是通过微软提供的API进行的。
 
+### 四、版本License
+* Windows购买后，会通过同步传递购买信息。
+* 移动必须登入Onedrive后才能享受。
